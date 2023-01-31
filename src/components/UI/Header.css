@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  justify-content: center; /* centraliza os elementos horizontalmente */
+  align-items: center; /* centraliza os elementos verticalmente */
+  padding: 10px 0px 10px 0px;
+}
+
+.header {
+  color: #222222;
+  font-family: 'Space Grotesk', sans-serif;
+  text-align: center;
+  font-size: 30px;
+  text-align: right;
+  order: -1;
+  padding-right: 20px;
+  line-height: 0.8; /* diminui o tamanho da linha */
+}
+
+.img {
+  order: 1;
+}

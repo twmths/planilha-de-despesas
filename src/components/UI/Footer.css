@@ -1,0 +1,19 @@
+.footer {
+  background-color: white;
+  text-align: center;
+  padding: 1px;
+  border-top: 1px solid #222222;
+  font-family: 'Space Grotesk', sans-serif;
+  margin-top: 80px;
+}
+
+.footer a {
+  color: #222222;
+  text-decoration-line: underline;
+  text-decoration-color: #2e05ff;
+  text-decoration-thickness: 3px;
+}
+
+.footer a:hover {
+  color: #2e05ff;
+}
